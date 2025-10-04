@@ -4,6 +4,10 @@ This is an exporter to export metrics from Bambu Lab printers into the Prometheu
 
 `Used with Firmware ...TODO... on Scott's H2S`
 
+
+![Grafana Screenshot](Grafana-Screenshot.jpg)
+
+
 # History
 
 I started with https://github.com/Aetrius/Bambulabs-Exporter/ but had a few problems, and I rewrote and simplified (well, simpler to me, at least) some of the
